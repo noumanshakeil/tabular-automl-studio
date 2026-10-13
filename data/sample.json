@@ -1,0 +1,12 @@
+{
+  "project": "tabular-automl-studio",
+  "resource": "runs",
+  "samples": [
+    {
+      "id": "ar1",
+      "dataset": "leads.csv",
+      "target": "converted",
+      "metric": "auc"
+    }
+  ]
+}
